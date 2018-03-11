@@ -1,0 +1,70 @@
+body{
+  font-family: Segoe Print;
+  background:antiquewhite;
+}
+#mar{
+  background: brown;
+  font-size: 30px;
+  color: aliceblue;
+  margin:1px;
+}
+#butn{
+  color: #fff;
+  background-color: #ccc;
+  padding: 5px;
+  margin-left: 69%;
+}
+#aform{
+  border: solid gray 1px;
+  width: 25%;
+  background: white;
+  padding: 50px;
+  border-radius: 5px;
+  margin: 100px auto;
+}
+a{
+  text-decoration: none;
+  color: brown;
+}
+.menu{
+  padding: 30px; 
+  color: antiquewhite;
+}
+.menu a {
+  text-decoration: none;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: solid forestgreen;
+  background: forestgreen;
+  color: antiquewhite;
+  border-radius: 10px;
+}
+.menu a:hover {
+  background: darkgreen;
+  border-color: darkgreen;
+}
+table{
+  border-radius: 5px;
+  border:solid #abc;
+  width: 50%;
+  margin-left: 70px;
+}
+th{
+  border-radius: 5px;
+  border:solid #abc;  
+}
+td{
+  border-radius: 5px;
+  border:solid #abc;
+}
+h1{
+  background: burlywood;
+  color: mediumorchid;
+  text-align: center;
+}
+#submit{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
